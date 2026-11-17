@@ -10,4 +10,4 @@ hashes, in `site/video/published.json`, and the site build downloads and
 verifies them. A release that no pin names can be deleted.
 
 The media is made from the glowcap repository's sources and shares its
-[Apache-2.0 license](https://github.com/glowcap-org/glowcap/blob/main/LICENSE).
+[Apache-2.0 license](https://github.com/glowcap-org/glowcap/blob/main/LICENSE-APACHE).
